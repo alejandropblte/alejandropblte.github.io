@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro&#39;s Blog</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Alejandro&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimización Dinámica</title>
+      <link>https://example.com/posts/optimizaci%C3%B3n-din%C3%A1mica/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/optimizaci%C3%B3n-din%C3%A1mica/</guid>
+      <description>Introduction Welcome to this fun and dynamic course. This is the first course of the Economic major and it&amp;rsquo;s goal is to provide a foundation in the subject of mathematical economics. Along the semester you will see different theoric problems applied to the economy, many of them will be tough, but you will have to try until succeed. good luck and have fun learning. Any questions you may have feel free to ask!</description>
+    </item>
+    
+    <item>
+      <title>Principios de Macroeconomía</title>
+      <link>https://example.com/posts/principios-de-macroeconom%C3%ADa/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/principios-de-macroeconom%C3%ADa/</guid>
+      <description>Introduction This is the first course in Macroeconomics. Here you will learn the basics and a framework for future Macroeconomic courses. These basics includes GDP, Inflation, balance of payments, IS-LM (as well as fiscal and monetary policies) and Aggregated Supply and Demand. Good luck and if you have any question just ask me!
+Ayudantías  Ayudantía 1
+ Ayudantía 2
+ Ayudantía 3
+ Ayudantía 4
+ Ayudantía 5</description>
+    </item>
+    
+  </channel>
+</rss>
