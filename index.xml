@@ -6,24 +6,15 @@
     <description>Recent content on Alejandro&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Optimización Dinámica</title>
-      <link>https://example.com/posts/optimizaci%C3%B3n-din%C3%A1mica/</link>
-      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/posts/optimizaci%C3%B3n-din%C3%A1mica/</guid>
-      <description>Introduction Welcome to this fun and dynamic course. This is the first course of the Economic major and it&amp;rsquo;s goal is to provide a foundation in the subject of mathematical economics. Along the semester you will see different theoric problems applied to the economy, many of them will be tough, but you will have to try until succeed. good luck and have fun learning. Any questions you may have feel free to ask!</description>
-    </item>
-    
-    <item>
       <title>Finanzas I</title>
       <link>https://example.com/posts/finanzas-i/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/posts/finanzas-i/</guid>
       <description>Introduction Welcome to the first course in finances, here you will learn the basics about financial mathematics and many interesting things. We&amp;rsquo;ll cover Present and future values, annuities and amortizations, bonds and stock pricing and many more. If your have any question feel free to ask. In this page I will upload the TA classes.
@@ -32,6 +23,15 @@ Ayudantías  Ayudantía 1
  [Ayudantía 3]
  [Ayudantía 4]
  [Ayudantía 5]</description>
+    </item>
+    
+    <item>
+      <title>Optimización Dinámica</title>
+      <link>https://example.com/posts/optimizaci%C3%B3n-din%C3%A1mica/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/optimizaci%C3%B3n-din%C3%A1mica/</guid>
+      <description>Introduction Welcome to this fun and dynamic course. This is the first course of the Economic major and it&amp;rsquo;s goal is to provide a foundation in the subject of mathematical economics. Along the semester you will see different theoric problems applied to the economy, many of them will be tough, but you will have to try until succeed. good luck and have fun learning. Any questions you may have feel free to ask!</description>
     </item>
     
     <item>
